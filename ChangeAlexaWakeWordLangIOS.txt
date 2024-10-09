@@ -1,0 +1,5 @@
+1. Access Language Library 
+2. function ChangeWakeWordLanguage()
+  - select language from the list
+  - set language
+  - remember 
