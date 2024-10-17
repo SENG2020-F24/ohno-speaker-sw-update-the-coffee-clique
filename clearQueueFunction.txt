@@ -1,0 +1,6 @@
+This function clears the queue
+clearQueueFunction 
+{
+  iterate through the queue;
+  clear;
+}
