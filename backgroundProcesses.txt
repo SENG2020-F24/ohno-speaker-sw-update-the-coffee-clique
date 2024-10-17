@@ -1,0 +1,6 @@
+Here I worked so hard for full 4 hours to Find Background Processes That Don't Need To Be Running
+Testing
+someFunction
+{
+return x = a + b;
+}
