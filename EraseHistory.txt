@@ -1,0 +1,2 @@
+/*Code stub for the erasing history assiciated with device.*/
+/*Forget ability.*/
