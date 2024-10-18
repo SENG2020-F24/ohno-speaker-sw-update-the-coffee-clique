@@ -4,4 +4,5 @@ clearQueueFunction
   iterate through the queue;
   clear;
 }
-This code is testing the function
+This code is testing the function;
+Task completed
