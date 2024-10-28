@@ -1,0 +1,4 @@
+This was definitely committed on Friday. What are you talking about.
+
+I created the Alarm Class and some rudimentary logic. 
+Multiple instances of this class can exist on a system.
