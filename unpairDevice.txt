@@ -3,3 +3,7 @@ someFunction()
 {
   some code;
 }
+helperFunction()
+{
+  some code;
+}
