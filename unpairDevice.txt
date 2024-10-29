@@ -1,0 +1,10 @@
+Starting unpair device
+someFunction()
+{
+  some code;
+}
+helperFunction()
+{
+  some code;
+}
+Testing
