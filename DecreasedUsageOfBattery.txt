@@ -1,0 +1,1 @@
+/*Code snippet for Battery Usage decreasing.*/
