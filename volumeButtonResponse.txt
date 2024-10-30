@@ -1,0 +1,1 @@
+/*Volume button response code snippet.*/
