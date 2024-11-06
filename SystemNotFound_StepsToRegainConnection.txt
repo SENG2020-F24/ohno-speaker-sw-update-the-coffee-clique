@@ -1,1 +1,8 @@
 /*Code Snippet*/
+
+//Lost connection alert
+
+someFunction()
+{
+  code;
+}
