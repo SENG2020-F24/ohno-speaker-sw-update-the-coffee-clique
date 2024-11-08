@@ -1,3 +1,5 @@
 File to work on the music library management tasks
 
 Improving sorting tools - done
+
+Improving search functionality - done
