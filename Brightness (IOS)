@@ -1,0 +1,4 @@
+Light mode/dark mode/system default are present.
+Default dark mode: color-red, intensity of brightness - min, blinking - slow.
+Default light mode: color - blue, brightness - max, blinking - none.
+Default mode: color: white, brightness - regular, blinking - none.
